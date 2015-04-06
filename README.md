@@ -5,8 +5,8 @@ Arduino sketch for controlling 8 wire stepper motor as peristaltic pump.
 
 This project was undertaken to create a microfluids system for recirculated panning of phage libraries over cells (e.g. activated CD4 cells, dendritic cells, etc.) and non-recirculated washing of non-specific phage off of those cells. I had a working peristaltic pump from a biacore T100 as the core of the system. Additional major components to control the pump are:
 
-Arduino Uno microcontroller
-Nanotec SMC11 Compact Microstep Controller
+Arduino Uno microcontroller \n
+Nanotec SMC11 Compact Microstep Controller \n
 Mean Well 24VDC / 6A switching power supply
 LCD display
 Potentiometer & knob
