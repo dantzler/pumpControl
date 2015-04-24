@@ -3,7 +3,9 @@ pumpControl
 
 Arduino sketch for controlling 8 wire stepper motor as peristaltic pump.
 
-This project was undertaken to create a microfluids system for recirculated panning of phage libraries over cells (e.g. activated CD4 cells, dendritic cells, etc.) and non-recirculated washing of non-specific phage off of those cells. I had a working peristaltic pump from a biacore T100 as the core of the system. Additional major components to control the pump are:
+This project was undertaken to create a microfluidics system for recirculated panning of phage libraries over rare/precious cell types (e.g. activated primary CD4 or dendritic cells, etc.) and continuous washing of non-specific phage off of those cells. Cells would be captured via magnetic separation beads using rare earth magnets.
+
+I had a working peristaltic pump from a biacore T100 as the core of the system. Additional major components to control the pump are:
 
 Arduino Uno microcontroller | Nanotec SMC11 Compact Microstep Controller | Mean Well 24VDC / 6A switching power supply | LCD display | Potentiometer & knob
 
